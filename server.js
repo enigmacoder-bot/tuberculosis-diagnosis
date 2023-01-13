@@ -1,6 +1,6 @@
 let express = require("express");
 let app = express();
-let port = 5000;
+const port = process.env.port || 8080;
 
 app.use(express.static("./static"));
 
