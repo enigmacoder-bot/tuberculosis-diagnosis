@@ -1,12 +1,14 @@
 # tuberculosis-diagnosis
 ## Azure Technologies Used Are
+![image](https://user-images.githubusercontent.com/67569126/214339267-0440c908-f2fa-4d53-98de-450e4af0420e.png)
+
 <ol type="1">
 <li>Azure Custom Vision</li>
-<li>Azure Web Service</li>
+<li>Azure App Service</li>
 </ol>
 
 
-## Azure Web Service
+## Azure App Service
 ![image](https://user-images.githubusercontent.com/67569126/212055856-beb3a436-5dfc-4275-a119-6de307360e0a.png)
 
 ![image](https://user-images.githubusercontent.com/67569126/212056198-7fc56133-2245-4f5a-833a-50682f03bdb4.png)
