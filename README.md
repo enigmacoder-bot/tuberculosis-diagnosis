@@ -21,7 +21,7 @@
 
 
 
-## Custom vision model
+## Azure Custom Vision
 ![image](https://user-images.githubusercontent.com/67569126/211995005-b31ced1c-6beb-4dd7-9e40-03b49b8c4b04.png)
 
 
