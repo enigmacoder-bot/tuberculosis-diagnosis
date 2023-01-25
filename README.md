@@ -1,3 +1,7 @@
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 # tuberculosis-diagnosis
 ## Azure Technologies Used Are
 ![image](https://user-images.githubusercontent.com/67569126/214339267-0440c908-f2fa-4d53-98de-450e4af0420e.png)
