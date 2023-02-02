@@ -28,6 +28,11 @@
 ## Azure Custom Vision
 ![image](https://user-images.githubusercontent.com/67569126/211995005-b31ced1c-6beb-4dd7-9e40-03b49b8c4b04.png)
 
+## Export to Client Javascript Application
+![image](https://user-images.githubusercontent.com/67569126/216335732-58b7ddd6-8b35-418a-92ca-a46b0aaa110d.png)
+![image](https://user-images.githubusercontent.com/67569126/216336070-907510d4-5bd8-4a54-b36b-1423c5f29e4b.png)
+![Screenshot_20230202_185306](https://user-images.githubusercontent.com/67569126/216337546-6ee85875-31b7-41f3-89ff-6ac0fce7a9c2.png)
+
 
 ## Performance
 ![image](https://user-images.githubusercontent.com/67569126/211995111-565e9831-387c-44f9-937e-0fdd051711cb.png)
